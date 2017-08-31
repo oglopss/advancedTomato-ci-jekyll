@@ -1,3 +1,4 @@
 build: 157
 files:
   - r2i
+  - /home/travis/advancedtomato/release/src-rt/image/tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-Mini.trx
