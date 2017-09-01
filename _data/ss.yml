@@ -1,7 +1,3 @@
-build: 159
+build: 160
 files:
-  - tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-MiniIPv6.trx
-  - tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-Mini.trx
-  - tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-MiniVPN.trx
-  - tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-IPv6-VPN.trx
-  - tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-Max.trx
+  - tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-Nocat-VPN.trx
