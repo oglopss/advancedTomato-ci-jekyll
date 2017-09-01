@@ -8,7 +8,7 @@ search_omit: true
 <br>
 build #{{ site.data.ss.build }} <a href="https://travis-ci.org/oglopss/advancedTomato-ci"><img src="https://travis-ci.org/oglopss/advancedTomato-ci.svg" /></a>
 <ul>
-{% assign sorted_ss = site.data.ss.files | sort: | reverse %}
+{% assign sorted_ss = site.data.ss.files %}
 {% for f in sorted_ss %}
 <li>
     <a href="{{ site.url }}/download/{{ f }}"> {{ f }}</a>
