@@ -12,7 +12,7 @@ build #{{ site.data.ss.build }} <a href="https://travis-ci.org/oglopss/advancedT
 {% for f in sorted_ss %}
 {% assign words = f | split: ' ' %}
 <li>
-    <a href="{{ site.url }}/download/{{ words[1] }}"> {{ words[0] }} - {{ words[1] }}</a>
+    {{ words[0] }} - <a href="{{ site.url }}/download/{{ words[1] }}">{{ words[1] }}</a>
 </li>
 {% endfor %}
 </ul>
