@@ -17,3 +17,4 @@ files:
   - rtn53 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-RT-N53.trx
   - n60 tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-TendaN60.trx
   - r64e tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-VPN-64K.trx
+  - r64z tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-AIO-64K.trx
