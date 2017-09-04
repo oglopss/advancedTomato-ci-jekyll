@@ -46,3 +46,4 @@ files:
   - e3200 tomato-K26USB-NVRAM60K-1.28.RT-N5x-CN-MIPSR2-140-Mega-VPN.trx
   - r64e tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-VPN-64K.trx
   - v2z tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-AIO.trx
+  - r64z tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-AIO-64K.trx
