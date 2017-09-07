@@ -2,3 +2,4 @@ build: 179
 files:
   - 0001 r2v tomato-r2v.tar.gz
   - 0004 e1000v2f tomato-e1000v2f.tar.gz
+  - 0005 e1000v2i tomato-e1000v2i.tar.gz
