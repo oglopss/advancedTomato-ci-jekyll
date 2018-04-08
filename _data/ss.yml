@@ -2,3 +2,4 @@ build: 213
 files:
   - 0001 r2f tomato-r2f.tar.gz
   - 0003 v2e tomato-Netgear-3500Lv2-K26USB-1.28.RT-N5x-CN--140-VPN.chk
+  - 0002 n64c tomato-n64c.tar.gz
